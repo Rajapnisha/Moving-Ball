@@ -1,6 +1,6 @@
 # **Moving Ball**
 
-This project features a simple **Moving Ball Animation** created using HTML, CSS, and JavaScript. The ball moves across the screen, showcasing basic animation techniques and event handling.
+This project features a simple **Moving Ball** created using HTML, CSS, and JavaScript. The ball moves across the screen, showcasing basic animation techniques and event handling.
 
 ## **Features**:
 - **Continuous Movement**: The ball moves in a defined direction continuously.
